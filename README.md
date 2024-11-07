@@ -4,6 +4,7 @@
 
 ![External Image](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/051/756/datas/gallery.jpg)
 
+***Watch the demo on ![devpost](https://www.devpost.com/software/petecode)***
 
 To get the project up and running, follow the steps below.
 
